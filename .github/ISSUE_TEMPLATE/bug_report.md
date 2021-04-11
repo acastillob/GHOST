@@ -24,9 +24,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Ambiente**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: Windows
+ - Browser: Opera
+ - Versión: 75.0.3969.149
  - Versión de GHOST: 3.3.0
  - Ambiente: development
  - Database: sqlite3
