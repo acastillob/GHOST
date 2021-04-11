@@ -28,6 +28,8 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
  - Versión de GHOST: 3.3.0
+ - Ambiente: development
+ - Database: sqlite3
 
 **Contenido adicional**
 Add any other context about the problem here.
